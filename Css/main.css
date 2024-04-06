@@ -1,0 +1,78 @@
+*{
+margin:0;
+padding: 0;
+}
+
+.Product_Servic {
+    margin:20px 40px ;
+text-align: left;
+
+
+}
+.Product_Servic h1{
+    margin-left: 10px;
+  
+}
+
+.Product{
+text-align:left;
+margin-top: 10px;
+margin-left: 10px;
+box-sizing: border-box;
+width: fit-content;
+background-color: v;
+}
+.product_one{
+display: inline-block;
+border:grey solid 1px;
+float: left;
+width: 20%;
+height: 20%;
+padding: 5px 5px ;
+margin-left:5px;
+margin-right:3px;
+margin-top: 8px;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.clearOne{
+    clear: both;
+}
+.product_one h4{
+    padding-bottom: 10px;
+}
+.product_one p{
+    color: gray;
+}
+.Price_befor{
+    color: green;
+    font-size: 100%;
+    font-weight:bold;
+    
+}
+.Price_After{
+    color: palevioletred;
+    font-size: small;
+    font-weight:bold;
+
+}
+.heart{
+border:#007BFF 3px solid;
+width: 15%;
+padding:8px 3px 5px 3px ;
+border-radius: 5px;
+
+}
+.Cart{
+    padding:5px 5px 5px 5px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    background-color:#007BFF;
+    color: white;
+    border: 0;
+    width: 80%;
+    border-radius: 5px;
+}
+.clearfix{
+    clear: both;
+}
